@@ -1,9 +1,6 @@
 #include <iostream>
 #include <vector>
 
-
-
-
 std::vector<int> generateFibonacci(int n) {
     std::vector<int> fibonacci(n);
     fibonacci[0] = 0;
